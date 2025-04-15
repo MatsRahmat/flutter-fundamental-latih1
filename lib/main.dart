@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:helloworld/basic_widgets/dailog_widget.dart';
-import 'package:helloworld/basic_widgets/date_picker.dart';
-import 'package:helloworld/basic_widgets/scaffold_widget.dart';
-import 'package:helloworld/basic_widgets/input_select_widget.dart';
-import 'package:helloworld/basic_widgets/floating_action_button.dart';
-import 'package:helloworld/basic_widgets/loading_cupertino.dart';
-import 'basic_widgets/text_widget.dart';
-import 'basic_widgets/image_widget.dart';
+// import 'package:helloworld/basic_widgets/date_picker.dart';
+// import 'package:helloworld/basic_widgets/scaffold_widget.dart';
+// import 'package:helloworld/basic_widgets/input_select_widget.dart';
+// import 'package:helloworld/basic_widgets/floating_action_button.dart';
+// import 'package:helloworld/basic_widgets/loading_cupertino.dart';
+// import 'basic_widgets/text_widget.dart';
+// import 'basic_widgets/image_widget.dart';
 
 void main() {
-  // runApp(const MyApp()); // Class pada file ini
-  runApp(const DatePickerPage()); // Halaman date picker
+  runApp(const MyApp()); // Class pada file ini
+  // runApp(const DatePickerPage()); // Halaman date picker
   // runApp(ScaffoldWidgetPage());
 }
 
